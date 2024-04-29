@@ -1,4 +1,4 @@
-# Instructions to run the Program
+# Instructions to get Started 👋
 ## Getting Started
 
 To get started with this project, follow these instructions:
