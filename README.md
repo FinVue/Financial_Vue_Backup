@@ -14,7 +14,7 @@ To get started with this project, follow these instructions:
    https://github.com/FinVue/Financial_Vue.git
    ```
 
-2. **Navigate to the project directory, make one terminals for the front-end directory:**
+2. **Navigate to the project directory, make one terminal for the front-end directory:**
 
    ```bash
    cd front-end
