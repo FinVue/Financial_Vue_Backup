@@ -4,7 +4,7 @@
 To get started with this project, follow these instructions:
 ### Prerequisites
 
-- **Node.js**, **Express.js**, **Vite** installed on your machine
+- **Node.js**, **Express.js**, **Vite**, **git** installed on your machine
   
 ## 1. Fork this Repository
 
