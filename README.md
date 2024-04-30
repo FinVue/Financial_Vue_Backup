@@ -6,27 +6,66 @@ To get started with this project, follow these instructions:
 
 - **Node.js**, **Express.js**, **Vite** installed on your machine
   
+## 1. Fork this Repository
+
+Click the "Fork" button in the top-right corner of this page to create a copy of this repository in your GitHub account.
+
+## 2. Clone the Forked Repository
+
+Clone your forked repository to your local machine using the following command:
+
+```bash
+git clone <your_forked_repository_url>
+```
+
+Replace <your_forked_repository_url> with the URL of your forked repository, which you can find on the GitHub page of your fork.
+
+## 3. Navigate to the Repository Directory
+
+Change your current directory to the directory of the cloned repository:
+
+```bash
+cd <repository_directory>
+```
+
+## 4. Create a New Branch
+Create a new branch to work on your changes using the following command:
+
+```bash
+git checkout -b <new_branch_name>
+```
+
+Replace <new_branch_name> with the desired name for your new branch.
+
+## 5. Make Changes and Commit
+
+Make changes to the files in your local repository as needed. After making changes, stage and commit them using the following commands:
+```bash
+git add .
+git commit -m "Your commit message here"
+```
+## 6. Push the New Branch to GitHub
+Push the new branch and its changes to your forked repository on GitHub using the following command:
+```bash
+git push origin <new_branch_name>
+```
+
 ### Installation
 
-1. **Fork Manually in github and create your own branch**
 
-   ```bash
-   https://github.com/FinVue/Financial_Vue.git
-   ```
-
-2. **Navigate to the project directory, make one terminal for the front-end directory:**
+1. **Navigate to the project directory, make one terminal for the front-end directory:**
 
    ```bash
    cd front-end
    ```
 
-3. **Install the depedencies**
+2. **Install the depedencies**
 
    ```bash
    npm install
    ```
 
-4. **go back and open back-end directory: and install dependencies**
+3. **go back and open back-end directory: and install dependencies**
 
    ```bash
    cd ..
@@ -34,7 +73,7 @@ To get started with this project, follow these instructions:
    npm install
    ```
 
-5. **then go back by typing**
+4. **then go back by typing**
 
    ```bash
    cd ..
