@@ -26,9 +26,10 @@ To get started with this project, follow these instructions:
    npm install
    ```
 
-4. **make another terminal for the back-end directory: and install dependencies**
+4. **go back and open back-end directory: and install dependencies**
 
    ```bash
+   cd ..
    cd back-end
    npm install
    ```
