@@ -25,6 +25,21 @@ To get started with this project, follow these instructions:
    ```bash
    npm install
    ```
+
+4. **make another terminal for the back-end directory: and install dependencies**
+
+   ```bash
+   cd back-end
+   npm install
+   ```
+
+5. **then go back by typing**
+
+   ```bash
+   cd ..
+   cd front-end
+   ```
+
 <hr>
 
 ## Starting the Server
