@@ -29,25 +29,29 @@ cd <repository_directory>
 ```
 
 ## 4. Create a New Branch
-Create a new branch to work on your changes using the following command:
+Create a new branch to work on your changes using the following command inside 
+Replace **<new_branch_name>** with the desired name for your new branch.
 
 ```bash
 git checkout -b <new_branch_name>
 ```
+## 5. Check your branch 
 
-Replace **<new_branch_name>** with the desired name for your new branch.
+```bash
+git branch
+```
 
-## 5. Make Changes and Commit
+## 6. Make Changes and Commit
 
 Make changes to the files in your local repository as needed. After making changes, stage and commit them using the following commands:
 ```bash
 git add .
 git commit -m "Your commit message here"
 ```
-## 6. Push the New Branch to GitHub
+## 7. Push the New Branch to GitHub
 Push the new branch and its changes to your forked repository on GitHub using the following command:
 ```bash
-git push origin <new_branch_name>
+git push origin <your_new_branch_name>
 ```
 
 ### Installation
